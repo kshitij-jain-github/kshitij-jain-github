@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kshitij Jain</h1>
-<h3 align="center">MTech IT student at USICT, specializing in Data Science & AI, with expertise in ASP.NET Core and a passion for web development, machine learning, and cutting-edge technologies</h3>
+<h3 align="center">👨‍🎓 MTech IT Student | USICT 🌐 Specializing in Data Science & Artificial Intelligence 💻 Experienced in ASP.NET Core (MVC), Ado.Net, Entity Framework 🤖 Passionate about Machine Learning, Deep Learning, & AI Ethics 🚀 Building high-quality web applications and exploring cutting-edge technologies. 📚 Lifelong learner | 💡 Collaborator | 🔍 Always staying ahead in tech! Let’s connect and create something amazing! 🌟</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kshitij-jain-github&label=Profile%20views&color=0e75b6&style=flat" alt="kshitij-jain-github" /> </p>
 
