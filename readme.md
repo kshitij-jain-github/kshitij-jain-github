@@ -19,7 +19,7 @@
   
 <h4 align="right">Let’s connect and create something amazing! 🌟</h4>
 
-- 📫 How to reach me **work.kshitijjain@gmail.com**
+<p  align="right">📫 How to reach me <a href=mailto:work.kshitijjain@gmail.com> </a>work.kshitijjain@gmail.com</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kshitij-jain-github&label=Profile%20views&color=0e75b6&style=flat" alt="kshitij-jain-github" /> </p>
 
