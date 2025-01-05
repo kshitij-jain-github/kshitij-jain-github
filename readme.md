@@ -1,13 +1,20 @@
 <h1 align="center">Hi 👋, I'm Kshitij Jain</h1>
-<h4  >👨‍🎓 MTech IT Student | USICT </h4> <h4  > 🌐 Specializing in Data Science & Artificial Intelligence </h4> <h4> 💻 Experienced in ASP.NET Core (MVC), Ado.Net, Entity Framework </h4> <h4> 🤖 Passionate about Machine Learning, Deep Learning, & AI Ethics </h4> <h4> 🚀 Building high-quality web applications and exploring cutting-edge technologies. </h4> <h4>📚 Lifelong learner | 💡 Collaborator | 🔍 Always staying ahead in tech! </h4> <h4> Let’s connect and create something amazing! 🌟</h4>
+👨‍🎓 MTech IT Student | USICT
+🌐 Specializing in Data Science & Artificial Intelligence
+
+- 🌱 I’m currently learning **Data Science & AI/ML**
+
+- 📫 How to reach me **work.kshitijjain@gmail.com**
+💻 Experienced in ASP.NET Core (MVC), Ado.Net, Entity Framework
+🤖 Passionate about Machine Learning, Deep Learning, & AI Ethics 
+🚀 Building high-quality web applications and exploring cutting-edge technologies. 
+📚 Lifelong learner | 💡 Collaborator | 🔍 Always staying ahead in tech!
+<h4>Let’s connect and create something amazing! 🌟</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kshitij-jain-github&label=Profile%20views&color=0e75b6&style=flat" alt="kshitij-jain-github" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kshitij-jain-github" alt="kshitij-jain-github" /></a> </p>
 
-- 🌱 I’m currently learning **Data Science & AI/ML**
-
-- 📫 How to reach me **work.kshitijjain@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
