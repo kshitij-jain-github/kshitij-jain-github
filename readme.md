@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Kshitij Jain</h1>
 - 👨‍🎓 MTech IT Student | USICT
+
 - 🌐 Specializing in Data Science & Artificial Intelligence
+  
 - 🌱 I’m currently learning **Data Science & AI/ML**
+  
 - 📫 How to reach me **work.kshitijjain@gmail.com**
 - 💻 Experienced in ASP.NET Core (MVC), Ado.Net, Entity Framework
 - 🤖 Passionate about Machine Learning, Deep Learning, & AI Ethics 
