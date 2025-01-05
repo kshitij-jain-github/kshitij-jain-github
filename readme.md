@@ -1,15 +1,20 @@
 <h1 align="center">Hi 👋, I'm Kshitij Jain</h1>
-- 👨‍🎓 MTech IT Student | USICT
+(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
 
-- 🌐 Specializing in Data Science & Artificial Intelligence
+- 👨‍🎓 MTech IT Student | USICT
   
 - 🌱 I’m currently learning **Data Science & AI/ML**
-  
-- 📫 How to reach me **work.kshitijjain@gmail.com**
+
 - 💻 Experienced in ASP.NET Core (MVC), Ado.Net, Entity Framework
-- 🤖 Passionate about Machine Learning, Deep Learning, & AI Ethics 
-- 🚀 Building high-quality web applications and exploring cutting-edge technologies. 
+  
+- 🤖 Passionate about Machine Learning, Deep Learning, & AI Ethics
+  
+- 🚀 Building high-quality web applications and exploring cutting-edge technologies.
+  
 - 📚 Lifelong learner | 💡 Collaborator | 🔍 Always staying ahead in tech!
+    
+- 📫 How to reach me **work.kshitijjain@gmail.com**
+  
 <h4>Let’s connect and create something amazing! 🌟</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kshitij-jain-github&label=Profile%20views&color=0e75b6&style=flat" alt="kshitij-jain-github" /> </p>
