@@ -18,6 +18,10 @@
 - 📫 How to reach me **work.kshitijjain@gmail.com**
   
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kshitij-jain-github&show_icons=true&locale=en&layout=compact" alt="kshitij-jain-github" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kshitij-jain-github&show_icons=true&locale=en" alt="kshitij-jain-github" /></p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kshitij-jain-github&label=Profile%20views&color=0e75b6&style=flat" alt="kshitij-jain-github" /> </p>
 <h4 align="center" >Let’s connect and create something amazing! 🌟</h4>
@@ -32,10 +36,6 @@
 <a href="https://www.hackerrank.com/jainkshitij1530" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jainkshitij1530" height="30" width="40" /></a>
 </p>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kshitij-jain-github&show_icons=true&locale=en&layout=compact" alt="kshitij-jain-github" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kshitij-jain-github&show_icons=true&locale=en" alt="kshitij-jain-github" /></p>
 
 <h3 align="center">Languages and Tools:</h3>
 
